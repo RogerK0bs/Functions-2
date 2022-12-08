@@ -18,5 +18,55 @@
     <ClCompile Include="Functions-2.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Fill_Rand.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Print.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Sum.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Shift.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Avg.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Sort.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Statistics.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stdafx.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Constans.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Fill_Rand.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Print.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Sum.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Shift.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Avg.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Sort.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Statistics.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
